@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.jumbotron{
+    background-image: url("i2-new.jpg");
+}
+.jumbotron h1{
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: white;
+    letter-spacing: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+.jumbotron p{
+    color:white;
+}
